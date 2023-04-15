@@ -1,0 +1,201 @@
+
+BirdsAtlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ShareWindow
+  rotate: false
+  xy: 1, 24
+  size: 262, 209
+  orig: 262, 209
+  offset: 0, 0
+  index: -1
+Arctin1
+  rotate: false
+  xy: 265, 157
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Arctin2
+  rotate: false
+  xy: 265, 79
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Arctin3
+  rotate: false
+  xy: 343, 157
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Blue1
+  rotate: false
+  xy: 343, 79
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Blue2
+  rotate: false
+  xy: 421, 157
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Blue3
+  rotate: false
+  xy: 421, 79
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Green1
+  rotate: false
+  xy: 499, 157
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Green2
+  rotate: false
+  xy: 499, 79
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Green3
+  rotate: false
+  xy: 577, 157
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Grey1
+  rotate: false
+  xy: 577, 79
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Grey2
+  rotate: false
+  xy: 655, 157
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Grey3
+  rotate: false
+  xy: 655, 79
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Pink1
+  rotate: false
+  xy: 733, 157
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Pink2
+  rotate: false
+  xy: 733, 79
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Pink3
+  rotate: false
+  xy: 811, 157
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Purple1
+  rotate: false
+  xy: 811, 79
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Purple2
+  rotate: false
+  xy: 889, 157
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Purple3
+  rotate: false
+  xy: 889, 79
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+LaterButton
+  rotate: false
+  xy: 265, 26
+  size: 92, 51
+  orig: 92, 51
+  offset: 0, 0
+  index: -1
+ShareButton
+  rotate: false
+  xy: 359, 27
+  size: 92, 50
+  orig: 92, 50
+  offset: 0, 0
+  index: -1
+Red1
+  rotate: false
+  xy: 453, 1
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Red2
+  rotate: false
+  xy: 531, 1
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Red3
+  rotate: false
+  xy: 609, 1
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Yellow1
+  rotate: false
+  xy: 687, 1
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Yellow2
+  rotate: false
+  xy: 765, 1
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Yellow3
+  rotate: false
+  xy: 843, 1
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+CloseButton
+  rotate: false
+  xy: 921, 41
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

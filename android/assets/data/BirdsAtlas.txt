@@ -1,0 +1,201 @@
+BirdsAtlas.png
+size: 492, 513
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ShareWindow
+  rotate: false
+  xy: 0, 0
+  size: 262, 209
+  orig: 262, 209
+  offset: 0, 0
+  index: -1
+LaterButton
+  rotate: false
+  xy: 354, 0
+  size: 92, 51
+  orig: 92, 51
+  offset: 0, 0
+  index: -1
+ShareButton
+  rotate: false
+  xy: 262, 0
+  size: 92, 50
+  orig: 92, 50
+  offset: 0, 0
+  index: -1
+Arctin1
+  rotate: false
+  xy: 304, 361
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Arctin2
+  rotate: false
+  xy: 228, 361
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Blue1
+  rotate: false
+  xy: 152, 361
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Grey3
+  rotate: false
+  xy: 76, 361
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Arctin3
+  rotate: false
+  xy: 380, 361
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Grey2
+  rotate: false
+  xy: 76, 437
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Green1
+  rotate: false
+  xy: 380, 437
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Blue3
+  rotate: false
+  xy: 0, 437
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Green2
+  rotate: false
+  xy: 304, 437
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Green3
+  rotate: false
+  xy: 152, 437
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Blue2
+  rotate: false
+  xy: 0, 361
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Grey1
+  rotate: false
+  xy: 228, 437
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Pink1
+  rotate: false
+  xy: 380, 285
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Yellow3
+  rotate: false
+  xy: 228, 209
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Purple3
+  rotate: false
+  xy: 380, 209
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Pink2
+  rotate: false
+  xy: 152, 209
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Purple1
+  rotate: false
+  xy: 0, 209
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Pink3
+  rotate: false
+  xy: 76, 209
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Purple2
+  rotate: false
+  xy: 304, 209
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Red2
+  rotate: false
+  xy: 304, 285
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Red3
+  rotate: false
+  xy: 152, 285
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Red1
+  rotate: false
+  xy: 228, 285
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Yellow2
+  rotate: false
+  xy: 76, 285
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Yellow1
+  rotate: false
+  xy: 0, 285
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+CloseButton
+  rotate: false
+  xy: 456, 437
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
